@@ -59,3 +59,7 @@ Or through our Discord channel:
 More information about how to use our discord Faucet can be found at:
 
 - [Testnet Faucet](https://docs.kiiglobal.io/docs/build-on-kiichain/developer-tools/testnet-faucet)
+git clone https://github.com/scary_zara/kiichain-repo.git
+cd kiichain-repo
+
+
